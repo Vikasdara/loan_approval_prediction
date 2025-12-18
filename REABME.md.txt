@@ -1,0 +1,21 @@
+# Loan Approval Prediction System
+
+This project is an end-to-end Machine Learning application that predicts loan approval status based on applicant financial and credit details.
+
+## Features
+- Machine Learning model using Random Forest
+- Feature importance analysis
+- Streamlit web application
+- Real-time loan approval prediction
+
+## Tech Stack
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
+- NumPy
+
+## How to Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
